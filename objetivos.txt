@@ -1,2 +1,3 @@
 "mis objetivos" 
 objetivo1: aperender usar nuevas herramientas
+objetivo2: entederlos temas

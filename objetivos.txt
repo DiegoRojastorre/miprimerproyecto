@@ -1,3 +1,4 @@
 "mis objetivos" 
 objetivo1: aperender usar nuevas herramientas
 objetivo2: entederlos temas
+objetivo 3: incorporar el conocimieto a los trabajos
